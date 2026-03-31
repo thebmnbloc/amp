@@ -17,8 +17,8 @@ export default function About() {
               Founded in the United States and operating across South Sudan, Uganda, and Kenya.
             </p>
             <div className="space-y-4 text-white/80">
-              <p><strong>Where Founded:</strong> United States</p>
-              <p><strong>Where Operating:</strong> South Sudan, Uganda, and Kenya</p>
+              <p><strong>Founded:</strong> United States</p>
+              <p><strong>Operating:</strong> South Sudan, Uganda, and Kenya</p>
               <p><strong>Core Belief:</strong> Stories have the power to heal, to challenge, and to inspire—and we are committed to telling them with honesty and purpose.</p>
             </div>
           </div>
