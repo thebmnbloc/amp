@@ -22,7 +22,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="#home" className="flex items-center gap-3">
           <Image
-            src="/images/logo.jpeg"          
+            src="/images/logo.png"
             alt="Awermach Media Productions"
             width={180}
             height={60}
