@@ -45,7 +45,7 @@ export default function Footer() {
           <br />
           Developed by{" "}
           <a
-            href="#" // ← Replace # with your link when ready
+            href="https://www.facebook.com/thebmnbloc?mibextid=ZbWKwL"
             className="text-amp-gold hover:underline"
           >
             Bior Malual

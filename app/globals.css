@@ -1,8 +1,10 @@
 @import "tailwindcss";
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@theme {
+  --color-amp-dark: #0a0a0a;
+  --color-amp-gold: #fbbf24;
+  --color-amp-gold-dark: #d97706;
+}
 
 @layer base {
   body {
