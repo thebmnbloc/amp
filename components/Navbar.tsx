@@ -26,7 +26,7 @@ export default function Navbar() {
             alt="Awermach Media Productions"
             width={180}
             height={60}
-            className="h-12 w-auto"
+            className="h-12 w-auto rounded-2xl"
           />
         </Link>
 
