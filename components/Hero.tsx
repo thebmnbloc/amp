@@ -25,9 +25,9 @@ export default function Hero() {
           <Image
             src="/images/logo.png"
             alt="Awermach Media Productions"
-            width={420}
-            height={140}
-            className="drop-shadow-2xl"
+            width={200}
+            height={50}
+            className="rounded-2xl drop-shadow-2xl"
           />
         </div>
 
