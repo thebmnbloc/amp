@@ -23,7 +23,7 @@ export default function Hero() {
       <div className="relative z-10 max-w-5xl mx-auto px-6 text-center">
         <div className="flex justify-center mb-6">
           <Image
-            src="/logo.png"
+            src="/images/logo.png"
             alt="Awermach Media Productions"
             width={420}
             height={140}
