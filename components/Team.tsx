@@ -38,13 +38,6 @@ export default function Team() {
       image: "/images/team/moto.png",
     },
     {
-      name: "Yom Matiop Ayuen",
-      role: "Lead Actress & Storytelling Face",
-      location: "Turkey",
-      description: "Drives visual storytelling through performance and creative expression.",
-      image: "/images/team/yom.png",
-    },
-    {
       name: "Gar Daniel Majok",
       role: "Visual Designer & Brand Advisor",
       location: "Nimule, South Sudan",
@@ -56,12 +49,20 @@ export default function Team() {
       role: "Events & Competitions Coordinator",
       location: "Bor, South Sudan",
       description: "Leads AMP event-based activities like chess, quiz, and debate.",
-      image: "/images/team/chol.png",
+      image: "/images/team/thiong.png",
     },
     
   ];
 
   {/*
+    {
+      name: "Yom Matiop Ayuen",
+      role: "Lead Actress & Storytelling Face",
+      location: "Turkey",
+      description: "Drives visual storytelling through performance and creative expression.",
+      image: "/images/team/yom.png",
+    },
+
     {
       name: "Bior Malual Nyok (Bloc)",
       role: "Head of Technology",
