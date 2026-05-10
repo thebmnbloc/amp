@@ -12,6 +12,7 @@ export default function Navbar() {
     { name: "About", href: "#about" },
     { name: "Services", href: "#services" },
     { name: "Portfolio", href: "#portfolio" },
+    { name: "Team", href: "#team" },
     { name: "Join AMP", href: "#join" },
     { name: "Contact", href: "#contact" },
   ];
@@ -22,11 +23,11 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="#home" className="flex items-center gap-3">
           <Image
-            src="/images/logo.png"
+            src="/images/new-logo.png"
             alt="Awermach Media Productions"
             width={180}
             height={60}
-            className="h-12 w-auto rounded-2xl"
+            className="h-12 w-auto rounded-full"
           />
         </Link>
 

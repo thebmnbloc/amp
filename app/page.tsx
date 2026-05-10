@@ -5,6 +5,7 @@ import VisionMission from "@/components/VisionMission";
 import Portfolio from "@/components/Portfolio";
 import JoinAMP from "@/components/JoinAMP";
 import Contact from "@/components/Contact";
+import Team from "@/components/Team";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Services />
       <VisionMission />
       <Portfolio />
+      <Team />
       <JoinAMP />
       <Contact />
     </>
