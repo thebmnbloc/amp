@@ -58,6 +58,7 @@ export default function Team() {
       description: "Leads AMP event-based activities like chess, quiz, and debate.",
       image: "/images/team/chol.png",
     },
+    {/*
     {
       name: "Bior Malual Nyok (Bloc)",
       role: "Head of Technology",
@@ -65,6 +66,7 @@ export default function Team() {
       description: "Builds and maintains AMP's systems and infrastructure.",
       image: "/images/team/bloc.png",
     },
+    */}
   ];
 
   {/* 
