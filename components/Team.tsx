@@ -58,7 +58,10 @@ export default function Team() {
       description: "Leads AMP event-based activities like chess, quiz, and debate.",
       image: "/images/team/chol.png",
     },
-    {/*
+    
+  ];
+
+  {/*
     {
       name: "Bior Malual Nyok (Bloc)",
       role: "Head of Technology",
@@ -67,7 +70,6 @@ export default function Team() {
       image: "/images/team/bloc.png",
     },
     */}
-  ];
 
   {/* 
   const getInitials = (name: string) => {
