@@ -21,7 +21,7 @@ export default function Team() {
       role: "Co-founder & Head of Production",
       location: "Juba, South Sudan",
       description: "Leads all on-ground filming and production.",
-      image: "/images/team/ajak.png",
+      image: "/images/team/thiong.png",
     },
     {
       name: "Ariik Ajak Ariik (Aramköu)",
@@ -49,7 +49,7 @@ export default function Team() {
       role: "Events & Competitions Coordinator",
       location: "Bor, South Sudan",
       description: "Leads AMP event-based activities like chess, quiz, and debate.",
-      image: "/images/team/thiong.png",
+      image: "/images/team/ajak.png",
     },
     
   ];
